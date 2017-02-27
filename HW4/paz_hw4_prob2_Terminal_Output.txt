@@ -1,24 +1,7 @@
+
+
 Last login: Wed Feb 22 12:18:52 on console
 Thomass-MBP:~ thomaspaz$ cd TCU/Spring17/COMPHYS/Homework
 Thomass-MBP:Homework thomaspaz$ python paz_hw4_prob2.py
 0.838891916859
 Thomass-MBP:Homework thomaspaz$ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

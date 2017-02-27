@@ -1,0 +1,19 @@
+
+
+Last login: Mon Feb 27 09:10:44 on ttys000
+Thomass-MacBook-Pro:Homework thomaspaz$ cd TCU/Spring17/COMPHYS/Homework
+-bash: cd: TCU/Spring17/COMPHYS/Homework: No such file or directory
+Thomass-MacBook-Pro:Homework thomaspaz$ cd HW3
+Thomass-MacBook-Pro:HW3 thomaspaz$ python paz_hw3_prob2.py
+The solution to 0.001x^2 + 1000x + 0.001 = 0 using the standard formula is:
+  x =  -9.999894245993346e-07
+  or x =  -999999.999999
+
+The solution to 0.001x^2 + 1000x + 0.001 = 0 using 2c / (−b ∓ √(b2 − 4ac)) is:
+  x =  -1.000000000001e-06
+  or x =  -1000010.5755125057
+
+The solution to 0.001x^2 + 1000x + 0.001 = 0 using a more acurate formula is:
+  x =  -0.000001000000000001000020816682712
+  or x =  -999999.9999999999708166817115
+Thomass-MacBook-Pro:HW3 thomaspaz$ 

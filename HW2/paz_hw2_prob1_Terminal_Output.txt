@@ -1,0 +1,20 @@
+
+
+Thomass-MBP:COMPHYS thomaspaz$ python paz_hw2_prob1.py
+Enter the value of x, in lightyears: 4.3
+Enter the value of speed, v, as a fraction of the speed of light: 0.8
+
+The time in years that the spaceship takes to reach its destination is:
+For an observer on Earth:7.17 years
+For passenger on ship:2.58 years
+
+The time it takes a spaceship to reach a planet 10 light years away:
+For an observer on Earth with v = 0.90c :22.942 years
+For passenger on ship with   v = 0.90c : 4.359 years
+
+For an observer on Earth with v = 0.98c :50.252 years
+For passenger on ship with   v = 0.98c : 1.990 years
+
+For an observer on Earth with v = 0.999c :223.663 years
+For passenger on ship with   v = 0.999c :  0.447 years
+Thomass-MBP:COMPHYS thomaspaz$ 

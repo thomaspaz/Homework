@@ -1,0 +1,12 @@
+
+
+Thomass-MBP:COMPHYS thomaspaz$ python paz_hw2_prob2.py
+Enter the atomic mass number Z:20
+Enter the mass number A:50
+The binding energy, B, for the corresponding atom is: 280.123
+The binding energy per nucleon, B/A, for the corresponding atom is: 5.602
+
+The binding energy, B, for an atom with A=58 and Z=28 is: 490.784
+The binding energy, B, for an atom with A=59 and Z=28 is: 496.582
+The binding energy, B, for an atom with A=58 and Z=27 is: 482.158
+Thomass-MBP:COMPHYS thomaspaz$ 

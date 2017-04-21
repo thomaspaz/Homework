@@ -1,0 +1,34 @@
+Last login: Mon Apr 10 10:09:35 on ttys000
+
+Thomass-MacBook-Pro:~ thomaspaz$ cd /Users/thomaspaz/TCU/Spring17/COMPHYS/Homework/HW5 
+Thomass-MacBook-Pro:HW5 thomaspaz$ python paz_hw5_prob1.py
+The best-fit values of the parameters:
+Amplitude: 6.28
+Phase: -10.00
+Offset: 11.76
+
+The overall average temperature in Munich: ---------------- 9.25 degrees Celsius
+The typical daily avaerages predicted by the model:
+  Daily average for coldest time of year: ----------------- -0.76 degrees Celsius
+  Daily average for hottest time of year: ----------------- 19.25 degrees Celsius
+
+The b parameter represents the phase shift of the cosine function.
+This value makes sense because this represents the amount the cosine wave has horizontally shifted from the original wave
+This is also apparent from the context of our data, as a local minimum - physically meaning that the minimum temperature in Munich occurs around mid-January
+Thomass-MacBook-Pro:HW5 thomaspaz$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

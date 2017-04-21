@@ -1,0 +1,24 @@
+Last login: Tue Apr 18 00:51:32 on ttys001
+Thomass-MacBook-Pro:~ thomaspaz$ cd /Users/thomaspaz/TCU/Spring17/COMPHYS/Homework/HW5 
+Thomass-MacBook-Pro:HW5 thomaspaz$ python paz_hw5_prob2.py
+
+a.)
+Best-Fit Values - Linear:
+Slope: -0.09
+Intercept: 7.50
+
+Best-Fit Values - Quadratic:
+Quadratic Coefficient: 0.00
+Linear Coefficient: -0.33
+Constant: 15.03
+
+Best-Fit Values - Periodic:
+Amplitude: 0.03
+Phase: -49.06
+Offset: 2.71
+
+b.)
+The periodic function fit the best,
+The data is not linear, and the quadratic is not following the trend of the data.
+We would want this to move peroidically, with it's position
+Thomass-MacBook-Pro:HW5 thomaspaz$ 
